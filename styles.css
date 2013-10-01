@@ -1,0 +1,12 @@
+header {
+    font-family: fantasy, Georgia, Times, serif;
+    font-size: 70px;
+    line-height: 100px;
+    text-align:center
+}
+p {margin-left:20px;}
+body {background-image:url("images/background.jpg");}
+a:link {color:#FF0000;}      
+a:visited {color:#00FF00;}  
+a:hover {color:#FF00FF;} 
+a:active {color:#0000FF;} 
